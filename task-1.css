@@ -1,0 +1,49 @@
+#top
+{
+    font-size: 70px;
+}
+.logo{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+p
+{
+  color: white;
+  margin-left: 20px;
+}
+body{
+  background-image: url("Background.png");
+}
+h1{
+
+  font-family: 'Roboto', sans-serif;
+  color: #6ddccf;
+  margin-left: 20px;
+}
+div{
+  width: 495px;
+  position: absolute;
+}
+
+.Team{
+  left: 503px;
+  top:
+}
+.Sponsor{
+  left: 1006px;
+margin-left: 8px;
+}
+.links
+{
+  position: relative;
+  top: 350px;
+ left: 1300px;
+}
+.icon{
+      margin-right: 50px;
+}
+.menu{
+  position: absolute;
+  top: 50px;
+    left: 1400px;
+}
